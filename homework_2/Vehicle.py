@@ -21,5 +21,4 @@ class Vehicle(ABC):
 
         else:
             raise exceptions.NotEnoughFuel
-    def abn(self, weight=0, fuel=20)
     
