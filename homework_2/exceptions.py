@@ -2,13 +2,13 @@
 from logging import exception
 
 class LowFuelError():
-    Exception ("Низкий уровень топлива")
+    pass
 
 
 class NotEnoughFuel():
-    Exception ("Недостаточно топлива")
+    pass
 
 
 class CargoOverload():
-    Exception ("Перегруз")
+    pass
     
